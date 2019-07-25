@@ -1,6 +1,8 @@
 
-##  A social network for pets
-## --------------------------------
+## My React Project                         
+## This combines 3 projects I did to learn React - react-app, react-gallery, and react-login
+## The test API used in this project is https://jsonplaceholder.typicode.com/
+## -------------------------------------------------------------------------------------------
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

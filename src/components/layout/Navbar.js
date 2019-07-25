@@ -9,7 +9,7 @@ import { Link } from 'react-router-dom'
       <nav className="navbar navbar-expand-sm navbar-dark bg-dark mb-4">  
         <div className="container">
           <Link className="navbar-brand" to="/">
-            Pets Online
+            My React Project
           </Link>
           <button
             className="navbar-toggler"
@@ -27,8 +27,18 @@ import { Link } from 'react-router-dom'
                 </Link>
               </li>
               <li className="nav-item">
+                <Link className="nav-link" to="/todo">
+                  ToDo List
+                </Link>
+              </li>
+              <li className="nav-item">
+                <Link className="nav-link" to="/photo">
+                  Photo Gallery
+                </Link>
+              </li>
+              <li className="nav-item">
                 <Link className="nav-link" to="/internal">
-                  Internal
+                  Protected Page
                 </Link>
               </li>
             </ul>

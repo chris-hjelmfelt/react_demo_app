@@ -1,0 +1,49 @@
+a {
+  color: #333;
+  text-decoration: none;
+}
+
+.container {
+  padding: 0 1rem;
+}
+
+.btn {
+  display: inline-block;
+  border: none;
+  background: #555;
+  color: #fff;
+  padding: 7px 7px;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background: #666;
+}
+
+/* Todo List Styles */
+.todo-items {
+  background-color: #f4f4f4;
+  padding: 10px;
+  border-bottom: 1px #ccc dotted;
+}
+
+.btnStyle {
+  background: #ff0000;
+  color: #fff;
+  border: none;
+  padding: 5px 12px;
+  border-radius: 50%;
+  cursor: pointer;
+  float: right;
+}
+
+/* Okta styles */
+.okta-sign-in-header .auth-header {
+  width: 100%;
+  margin: 0em;
+  padding: 0em;
+}
+.auth-org-logo {
+  width: 390px;
+}
+

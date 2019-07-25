@@ -48,6 +48,6 @@ export default withAuth(class Login extends Component {  // withAuth is a wrappe
       <SignInWidget
         baseUrl={this.props.baseUrl}
         onSuccess={this.onSuccess}
-        onError={this.onError}/>;
+        onError={this.onError} />;
   }
 });
