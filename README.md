@@ -1,8 +1,12 @@
 
 ## My React Project                         
-## This combines 3 projects I did to learn React - react-app, react-gallery, and react-login
-## The test API used in this project is https://jsonplaceholder.typicode.com/
-## -------------------------------------------------------------------------------------------
+** This combines 3 projects I did to learn React: **
+** react-app, react-gallery, and react-login **
+** The test API used in this project is: **
+** [jsonplaceholder.typicode.com](https://jsonplaceholder.typicode.com/) **
+** To login to the protected area use: **
+** login: guest@example.com   password: Password1 **
+** -----------------------------------------------------------------------**
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
