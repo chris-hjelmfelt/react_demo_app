@@ -1,22 +1,21 @@
 
-## My React Project                         
-** This combines 3 projects I did to learn React: **<br />
-** react-app, react-gallery, and react-login **<br />
+## React Project App                       
+This combines 3 small projects I did when I first started learning React:   
+react-app, react-gallery, and react-login   
 ____
 
- The test API used in this project is: <br />
+ The test API used in this project is:   
  [jsonplaceholder.typicode.com](https://jsonplaceholder.typicode.com/) 
 
+ view it here: [https://www.quantummelody.com/react_app/index.html](https://www.quantummelody.com/react_app/index.html) 
 
- To login to the protected area use: <br />
- login: guest@example.com   password: Password1 <br />
-____
+![Screenshot](./screenshot.png)
+
+ To login to the protected area use:   
+ login: user@example.com   password: Password1    
 
 
-### `npm start`
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 
 

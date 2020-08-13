@@ -19,22 +19,21 @@ a {
 .btn:hover {
   background: #666;
 }
+.btnStyle {
+  background: #ff0000;
+  color: #fff;
+  border: none;
+  padding: 5px 8px;
+  border-radius: 50%;
+  cursor: pointer;
+  float: right;
+}
 
 /* Todo List Styles */
 .todo-items {
   background-color: #f4f4f4;
   padding: 10px;
   border-bottom: 1px #ccc dotted;
-}
-
-.btnStyle {
-  background: #ff0000;
-  color: #fff;
-  border: none;
-  padding: 5px 12px;
-  border-radius: 50%;
-  cursor: pointer;
-  float: right;
 }
 
 /* Okta styles */
@@ -47,3 +46,15 @@ a {
   width: 390px;
 }
 
+.navbar-brand {
+  color: rgb(164, 236, 164)  !important;
+}
+
+.nav-link {
+  color: rgb(164, 236, 164)  !important;
+}
+
+.inline-link {
+  color: rgb(79, 109, 79) !important;
+  text-decoration: underline;
+}
