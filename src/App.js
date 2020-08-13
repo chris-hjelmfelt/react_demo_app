@@ -31,7 +31,7 @@ class App extends Component {
         <Security issuer='https://dev-288710.okta.com/oauth2/default'
                   client_id='0oazk8irnXFHtsiDZ356'
                   redirect_uri={window.location.origin + '/implicit/callback'}
-                  onAuthRequired={onAuthRequired} >
+                  onAuthRequired={onAuthRequired} >                    
           <div className="App">
             <Navbar />
               <div className="container">   
